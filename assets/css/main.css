@@ -2730,7 +2730,7 @@ input, select, textarea {
 		font-weight: 300;
 	}
 
-	.devicon-github-plain{
+	.devicon-github-plain, .fa-linkedin-in{
 		height: 26px;
 		display: flex;
 		align-items: center;
